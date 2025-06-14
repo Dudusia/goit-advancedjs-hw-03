@@ -40,7 +40,6 @@ refs.searchBtn.addEventListener('click', () => {
           });
           return;
         }
-        console.log(data.hits);
         const galleryCardsTemplate = data.hits
           .map(pictureInfo => createGalleryCardTemplate(pictureInfo))
           .join('');
