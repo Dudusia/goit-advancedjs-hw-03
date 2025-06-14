@@ -1,5 +1,11 @@
 # Changelog goit-advancedjs-hw-03
 
+## [1.1.2](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/compare/1.1.1...1.1.2) (2025-06-14)
+
+### Bug Fixes
+
+* reset gallery on submit ([cfd3d0c](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/commit/cfd3d0cc11bf00abb4479fbad8a504702c683c94))
+
 ## [1.1.1](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/compare/1.1.0...1.1.1) (2025-06-14)
 
 ### Bug Fixes
