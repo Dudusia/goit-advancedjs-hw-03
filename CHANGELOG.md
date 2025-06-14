@@ -1,5 +1,11 @@
 # Changelog goit-advancedjs-hw-03
 
+## [1.1.1](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/compare/1.1.0...1.1.1) (2025-06-14)
+
+### Bug Fixes
+
+* add proper url ([1d25408](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/commit/1d254087b61d17db5d0e3da83a36ff06161a1939))
+
 ## [1.1.0](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/compare/1.0.0...1.1.0) (2025-06-14)
 
 ### Features
