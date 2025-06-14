@@ -1,5 +1,11 @@
 # Changelog goit-advancedjs-hw-03
 
+## [1.1.4](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/compare/1.1.3...1.1.4) (2025-06-14)
+
+### Bug Fixes
+
+* autocheck ([8f26af1](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/commit/8f26af10160898d373eaad565178ac6e4244c3a4))
+
 ## [1.1.3](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/compare/1.1.2...1.1.3) (2025-06-14)
 
 ### Bug Fixes
