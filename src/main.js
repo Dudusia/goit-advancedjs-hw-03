@@ -8,7 +8,7 @@ import { createGalleryCardTemplate } from './js/render-functions';
 const refs = {
   gallery: document.querySelector('.gallery'),
   loader: document.querySelector('.js-loader'),
-  searchForm: document.querySelector('.search-form'),
+  searchForm: document.querySelector('.form'),
   searchBtn: document.querySelector('.search-button'),
   searchInput: document.querySelector('.search-input'),
 };
