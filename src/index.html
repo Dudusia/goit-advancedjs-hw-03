@@ -17,11 +17,17 @@
     <link rel="stylesheet" href="css/main.css" />
   </head>
   <body>
-    <div class="search-div">
-      <input type="text" class="search-input" name="search" placeholder="Search images..."/>
+    <form class="search-form">
+      <input
+        type="text"
+        class="search-input"
+        name="search"
+        placeholder="Search images..."
+      />
       <button type="button" class="search-button">Search</button>
-    </div>
+    </form>
     <ul class="gallery"></ul>
     <script src="./main.js" type="module"></script>
+    <span class="loader js-loader"></span>
   </body>
 </html>
