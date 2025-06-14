@@ -1,5 +1,11 @@
 # Changelog goit-advancedjs-hw-03
 
+## [1.1.3](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/compare/1.1.2...1.1.3) (2025-06-14)
+
+### Bug Fixes
+
+* remove logging ([91cdf7e](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/commit/91cdf7ede1aefeba24f092e29c5e84b652362a65))
+
 ## [1.1.2](https://gitlab.com/goit-uni/js-adv/goit-advancedjs-hw-03/compare/1.1.1...1.1.2) (2025-06-14)
 
 ### Bug Fixes
