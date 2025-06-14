@@ -28,6 +28,7 @@ refs.searchBtn.addEventListener('click', () => {
   if (!refs.searchInput.value.trim()) {
     return;
   } else {
+    refs.gallery.innerHTML = '';
     refs.loader.classList.add('active');
     fetchImagesByQuery(refs.searchInput.value)
       .then(data => {
@@ -37,7 +38,6 @@ refs.searchBtn.addEventListener('click', () => {
               'Sorry, there are no images matching your search query. Please try again!',
             position: 'topRight',
           });
-          refs.gallery.innerHTML = '';
           return;
         }
         console.log(data.hits);
